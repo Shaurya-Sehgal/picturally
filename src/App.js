@@ -9,7 +9,6 @@ function App() {
     <>
       <Nav />
       <Search />
-      <Results />
     </>
   );
 }
